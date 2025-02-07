@@ -30,3 +30,15 @@ body {
     color: #333;
     font-size: 18px;
 }
+nav {
+    background: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 18px;
+}
