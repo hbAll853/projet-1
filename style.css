@@ -3,3 +3,30 @@ body {
     background-color: #f4f4f4;
     text-align: center;
 }
+/* Style global */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style spécifique pour la deuxième page */
+.page2 {
+    background-color: #e3f2fd; /* Bleu clair */
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    margin: 20px auto;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.page2 h1 {
+    color: #1565c0;
+}
+
+.page2 p {
+    color: #333;
+    font-size: 18px;
+}
